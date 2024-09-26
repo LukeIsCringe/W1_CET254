@@ -14,7 +14,7 @@ namespace W1_CET254
         {
             List<double> listOfDoubles = new List<double>();
 
-            PopulateListWithRandomDoubles(ref listOfDoubles, 1000);
+            PopulateListWithRandomDoubles(ref listOfDoubles, 100);
             PrintList(listOfDoubles);
 
             Console.ReadKey();
