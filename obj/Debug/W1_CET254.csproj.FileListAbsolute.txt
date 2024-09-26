@@ -1,0 +1,7 @@
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\bin\Debug\W1_CET254.exe.config
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\bin\Debug\W1_CET254.exe
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\bin\Debug\W1_CET254.pdb
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\obj\Debug\W1_CET254.csproj.AssemblyReference.cache
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\obj\Debug\W1_CET254.csproj.CoreCompileInputs.cache
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\obj\Debug\W1_CET254.exe
+C:\Users\bi54ul\source\repos\W1_CET254\W1_CET254\obj\Debug\W1_CET254.pdb
